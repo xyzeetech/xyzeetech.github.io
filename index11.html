@@ -1,19 +1,9 @@
 <!DOCTYPE html>
-<html ng-app="tut">
+<html>
 <head>
 	<title> Startup Guide </title>
   <script type="text/javascript" src="js/angular.js"></script>
-  <script type="text/javascript">
-     var app = angular.module("tut",[]);
-     app.controller("myCtrl",function($scope,$http){
-      $http.get("crawl.json")
-      .then(function(response){
-        $scope.crawl = response.data;
-      });
-     });
 
-  </script>
-  
 	<!--Import Google Icon Font-->
       <link href="css/icon.css" rel="stylesheet">
 
@@ -133,20 +123,48 @@ Provided that such entity is not formed by splitting up, or reconstruction, of a
       </div>
     <h3> &nbsp;&nbsp;News Update</h3>
 
-     <div class="row" ng-controller="myCtrl">
-       <div ng-repeat="craw in crawl"> 
+     <div class="row">
         <div class="col s12 m4">
           <div class="card">
             <div class="card-image">
-              <img ng-src="{{craw.image}}">
-               <span class="card-title " style=" font-size: 15px; color: #fff; font-weight:400;background-color: rgba(0, 0, 0, 0.45);">{{craw.head}}</span>
+              <img src="images/eco1.jpg">
+               <span class="card-title " style=" font-size: 15px; color: #fff; font-weight:400;background-color: rgba(0, 0, 0, 0.45);">Expect economic growth to improve further in Oct-Mar: Industry</span>
             </div>
-            
+            <div class="card-content">
+              <p>With India's growth improving to 6.3 per cent in July-September, industry bodies today said the economy is on a solid recovery path </p>
+            </div>
             <div class="card-action">
-              <a ng-href="{{craw.url}}">Read</a>
+              <a href="https://economictimes.indiatimes.com/news/economy/policy/expect-economic-growth-to-improve-further-in-oct-mar-industry/articleshow/61868040.cms">Read</a>
             </div>
           </div>
         </div>
+        <div class="col s12 m4">
+          <div class="card">
+            <div class="card-image">
+              <img src="images/startup.jpeg">
+               <span class="card-title " style=" font-size: 15px; color: #fff; font-weight:400;background-color: rgba(0, 0, 0, 0.45);">A Legal Guide to start your Busines</span>
+            </div>
+            <div class="card-content">
+              <p>A compendium of all legal requirements for incorporation of organizations such as Sole Proprietorship, Partnership Firms..... </p>
+            </div>
+            <div class="card-action">
+              <a href="https://economictimes.indiatimes.com/small-biz/resources/legal-guide-to-start-your-business">Read</a>
+            </div>
+          </div>
+        </div>
+        <div class="col s12 m4">
+          <div class="card">
+            <div class="card-image">
+              <img src="images/startup.jpeg">
+               <span class="card-title " style=" font-size: 15px; color: #fff; font-weight:400;background-color: rgba(0, 0, 0, 0.45);">A Legal Guide to start your Busines</span>
+            </div>
+            <div class="card-content">
+              <p>A compendium of all legal requirements for incorporation of organizations such as Sole Proprietorship, Partnership Firms..... </p>
+            </div>
+            <div class="card-action">
+              <a href="https://economictimes.indiatimes.com/small-biz/resources/legal-guide-to-start-your-business">Read</a>
+            </div>
+          </div>
         </div>
 
       </div>
