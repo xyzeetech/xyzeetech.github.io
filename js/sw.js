@@ -3,7 +3,12 @@ var cacheFiles=[
 './',
 './index.html',
 './css/style.css',
-'./css/materialize.min.css'
+'./css/materialize.min.css',
+'./images/Startup_I.jpg',
+'./images/start1.jpeg',
+'./images/socialmedia.jpg'
+
+
 
 ]
 
