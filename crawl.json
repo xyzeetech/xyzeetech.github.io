@@ -1,6 +1,143 @@
 [
-   {"head":"SaaS startup Worqa wants to simplify workflow management for Indian SMBs" , "image":"https://images.yourstory.com/2018/03/WORQA.png?w=600&h=300&fit=crop&crop=faces&auto=compress","url": "https://yourstory.com/2018/03/saas-startup-worqa-wants-simplify-workflow-management-indian-smbs/"},
-   {"head":"How Silicon Valley startup Harvesting plans to bridge the farm and finance deficit in India" , "image":"https://images.yourstory.com/2018/03/Feature_image.jpg?w=600&h=300&fit=crop&crop=faces&auto=compress","url":"https://yourstory.com/2018/03/silicon-valley-startup-harvesting-plans-bridge-farm-finance-deficit-india/"},
-   {"head":"5 lessons startups can learn from Stephen Hawking" , "image":"https://images.yourstory.com/2018/03/Inspiration.jpg?w=600&h=300&fit=crop&crop=faces&auto=compress","url":"https://yourstory.com/2018/03/5-lessons-startups-stephen-hawking/"}
-  
+   {"Scheme":"	Extra Mural Research Funding" , 
+   "Industry":"Chemicals, Technology Hardware, Healthcare & Lifesciences, Aeronautics/Aerospace & Defence, Agriculture, AI, AR/VR (Augmented + Virtual Reality), Automotive, Telecommunication & Networking, Computer Vision, Construction, Design, Non- Renewable Energy, Renewable Energy, Green Technology, Finance Technology, Internet of Things, Nanotechnology, Social Impact, Food & Beverages, Pets & Animals, Textiles & Apparel",
+   "Overview": "The Science and Engineering Research Board supports potential scientists for undertaking research in frontier areas of Science & Technology in Life Sciences, Physical Sciences, Chemical Sciences, Engineering Sciences, Earth & Atmospheric Sciences & Mathematical Sciences.",
+   "Relevant":"Startup, Incubator/Academia/Accelerator",
+   "Type":"Research","Eligibility":"Indian citizen residing in India, holding a regular academic/research position in a recognized institution. The proposals can be submitted by an individual or by a team of investigators.",
+   "Fiscal":"The research grant covers equipment, consumables, contingency and travel apart from overhead grants. No budget limit is prescribed for this type of projects",
+   "Link":"http://serbonline.in/SERB/emr?HomePage=New","Process":"The proposal submission window for Principal Investigators is open for two months during June-July and second spell starting from November to December in a year. 
+
+Application Link: http://serbonline.in/SERB/Registration.do#
+Submission Guidelines: http://serbonline.in/SERB_Help/pi/Multiscreen_HTML5/desktop/Login.html","Contact":"Relevant Officers: http://www.serb.gov.in/emr.php
+Contact of all Officers: http://www.serb.gov.in/directory.php"},
+
+
+
+
+
+
+{"Scheme":"High Risk- High Reward Research" , 
+   "Industry":"Chemicals, Technology Hardware, Healthcare & Lifesciences, Aeronautics/Aerospace & Defence, Agriculture, AI, AR/VR (Augmented + Virtual Reality), Automotive, Telecommunication & Networking, Computer Vision, Construction, Design, Non- Renewable Energy, Renewable Energy, Green Technology, Finance Technology, Internet of Things, Nanotechnology, Social Impact, Food & Beverages, Pets & Animals, Textiles & Apparel",
+   "Overview": "The Science and Engineering Research Board aims at supporting proposals that are conceptually new and risky, and if successful, expected to have a paradigm shifting influence on the S&T. Proposals that address scientific issues which will result in 'incremental' knowledge will not be supported. ",
+   "Relevant":"Startup, Incubator/Academia/Accelerator",
+   "Type":"Research","Eligibility":"Indian citizen residing in India, holding a regular academic/research position in a recognized institution. The proposals can be submitted by an individual or by a team of investigators.",
+   "Fiscal":"The research grant covers equipment, consumables, contingency and travel apart from overhead grants. No budget limit is prescribed for this type of projects",
+   "Link":"http://serbonline.in/SERB/emr?HomePage=New","Process":"The proposal submission window for Principal Investigators is open for two months during June-July and second spell starting from November to December in a year. 
+
+Application Link: http://serbonline.in/SERB/Registration.do#
+Submission Guidelines: http://serbonline.in/SERB_Help/pi/Multiscreen_HTML5/desktop/Login.html","Contact":"Dr. Nilotpal Ghosh, Scientist E
+
+Phone: 011- 40000396
+
+Email: nilotpal@serb.gov.in"},
+
+
+
+
+
+{"Scheme":"Industry Relevant R&D", 
+   "Industry":"Agnostic",
+   "Overview": "The Science and Engineering Research Board supporting ideas that address a well-defined problem of industrial relevance through this scheme. The proposal shall be jointly designed and implemented by an academic partner (which includes a partner from national laboratories/recognized R&D instiitutions as the case may be) and industry.  Ideally, the proposal must contain the characteristics of any of the following:
+
+1. Proposals that adopt an innovative approach to solve a problem faced by the industry.
+
+2. Proposals whose outcomes will bring new scientific and technological innovations.
+
+3. Solution driven research that aid technology transfer and commercialization.",
+   "Relevant":"Startup, Incubator/Academia/Accelerator",
+   "Type":"Research, Business",
+   "Eligibility":"Academic Partner
+
+Indian citizens residing in India. The academic partner must hold a regular academic/research position in an academic institution or national laboratories or recognised R&D institutions. More than one academic partner may be allowed.
+
+Industry Partner
+
+All industries (including MSME & industrial R&D Centres) are eligible.
+
+More than one Industry and or more than one Investigator from one Industry can be associated in a project.
+
+Indian citizen residing in India, holding a regular academic/research position in a recognized institution. The proposals can be submitted by an individual or by a team of investigators.",
+   "Fiscal":"The industry share should not be less than 50 % of the total budget. Overhead is provided to the academic partner. The SERB share shall not exceed Rs. 50 lakh for a project. The upper cap may be relaxed on case to case basis.The support from SERB shall be extended only to the  the academic partner and not to the industry. The research grant will be provided for equipment, manpower, consumables, travel, pilot plant study, and any other costs associated with the project. It is expected that the equipment will be installed in the institution where the academic partner is working. ",
+   "Link":"http://serbonline.in/SERB/IRR?HomePage=Newhttp://serbonline.in/SERB/emr?HomePage=New","Process":"The proposal submission window for Principal Investigators is open for two months during June-July and second spell starting from November to December in a year. 
+
+Application Link: http://serbonline.in/SERB/Registration.do#
+Submission Guidelines: http://serbonline.in/SERB_Help/pi/Multiscreen_HTML5/desktop/Login.html","Contact":"Dr. Jigisha K Parikh, Scientist G
+
+Phone: 011- 40000306 
+
+Email: jigishaparikh@serb.gov.in"},
+
+
+
+{"Scheme":"Electronic Development Fund (EDF) Policy", 
+   "Industry":"IT Services, Analytics, Enterprise Software, Technology Hardware, Internet of Things, AI, Nanotechnology",
+   "Overview": "This fund of funds aims to foster R&D and innovation in technology sectors like electronics, IT and nano-electronics. The agenda is envisaged to develop the Electronics System Design and Manufacturing (ESDM) sector to achieve “Net Zero Imports” by 2020.",
+   "Relevant":"Startup",
+   "Type":"Business","Eligibility":"Innovation in technology sectors like electronics, IT and nano-electronics",
+"Fiscal":"Electronic Development Fund (EDF) is set up as a "Fund of Funds" to participate in professionally managed "Daughter Funds" which in turn will provide risk capital to companies developing new technologies in the area of electronics, nano-electronics and Information Technology (IT)",
+   "Link":"http://meity.gov.in/esdm/edf","Process":"http://www.edfindia-canbankventure.com/","Contact":"Shri K. Baskaran, MD, CVCFL
+
+Fax: +91-80- 25583909
+
+Email: md@canbankventure.com,
+
+Shri Rachit Sharma, Assistant Vice President, CVCFL
+
+Phone: +91-80-25586506/6507
+
+Email: rachitsharma@canbankventure.com,
+
+Shri Prashant Kumar, Scientist D
+
+Email: prashant@deity.gov.in
+
+"},
+
+
+ {"Scheme":"Software Technology Park (STP) Scheme" , 
+   "Industry":"IT Services, Finance Technology, Enterprise Software, Analytics, AI",
+   "Overview": "The STP Scheme is a 100% export oriented scheme providing statutory services, data communications servers, incubation facilities, training and value-added services. The scheme allows software companies to set up operations in convenient and inexpensive locations and plan their investment and growth, driven by business needs.",
+   "Relevant":"Startup",
+   "Type":"Miscellaneous","Eligibility":"Software Companies",
+   "Fiscal":"1. Customs Duty exemption in full on imports
+
+2. Central Excise Duty exemption in full on indigenous procurement
+
+3. Central Sales Tax reimbursement on indigenous purchase against from C
+
+4. Equipment can also be imported on loan basis/lease
+
+5. 100% FDI is permitted through automatic route
+
+6. Sales in the DTA up to 50% of the FOB value of exports permissible
+
+7. Depreciation on computers at accelerated rates up to 100% over 5 years is permissible",
+   "Link":"https://www.stpi.in/
+","Process":"The guidelines for formulation and submission of projects and the prescribed format can  be collected from Dr. Rajeev Sharma, Scientist-D, Room No: 20, Hall-C, Department of Science and Technology, Technology Bhavan, New Mehrauli Road, New Delhi – 110 016 (E-mail: rajeevsharma@nic.in, Telephone : 011-26602187, 26590310, Mobile: 9971888229). 
+
+The complete proposals (15 copies) and/or suggestions regarding additional areas for technology development may be addressed to:
+
+Dr. Neeraj Sharma, Advisor & Head (TDT Division), Room No 1A, Administrative Block, Department of Science & Technology, Technology Bhavan, New Mehrauli Road, New Delhi-110 016","Contact":"Director General, STPI
+
+9th Floor, NDCC-II Building,
+
+Jai Singh Road (Opp. Jantar Mantar),
+
+New Delhi-110 001.
+
+Phone: +91-11-23438171, +91-11-23438174, +91-11-23438188
+
+Fax: +91-11-23438173
+
+E-mail: rai@stpi.in"}
+
+
+
+
+
+
+
+
+
+   
 ]
